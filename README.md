@@ -1,3 +1,5 @@
+
+# eBay Related Products - Playwright Automation (JavaScript)
 🚀 Surge Global | eBay Related Products Automation
 
 Assignment ID: 7305323:0
@@ -6,9 +8,6 @@ Automated test suite using Playwright to validate related product logic on eBay.
 📦 Project Overview
 
 This project ensures that the Related Products section on an eBay product detail page behaves correctly and delivers relevant recommendations. Tests cover UI visibility, category relevance, price range accuracy, and display limits.
-
-
-# eBay Related Products - Playwright Automation (JavaScript)
 
 Automated test suite using Playwright to validate related product display behavior on eBay.com.
 
