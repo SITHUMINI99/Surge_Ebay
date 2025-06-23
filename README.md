@@ -1,6 +1,6 @@
 
 # eBay Related Products - Playwright Automation (JavaScript)
-🚀 Surge Global | eBay Related Products Automation
+Surge Global | eBay Related Products Automation
 
 Assignment ID: 7305323:0
 Automated test suite using Playwright to validate related product logic on eBay.com.
@@ -27,10 +27,10 @@ Automated test suite using Playwright to validate related product display behavi
 ```bash
 🚀 Getting Started
 
-1️⃣ Install Dependencies - npm install
-2️⃣ Run All Tests        - npx playwright test
-3️⃣ Run a Specific Test  - npx playwright test tests/relatedProducts.spec.js
-4️⃣ Launch Tests with UI (for debugging) - npx playwright test --ui
+1️ Install Dependencies - npm install
+2 Run All Tests        - npx playwright test
+3 Run a Specific Test  - npx playwright test tests/relatedProducts.spec.js
+4️ Launch Tests with UI (for debugging) - npx playwright test --ui
 
 
 🧰 Tech Stack
