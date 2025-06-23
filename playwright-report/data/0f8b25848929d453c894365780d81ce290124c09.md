@@ -1,0 +1,79 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Skip to main content":
+    - /url: "#mainContent"
+  - navigation:
+    - text: Hi!
+    - link "Sign in":
+      - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh
+    - text: or
+    - link "register":
+      - /url: https://signup.ebay.com/pa/crte
+    - link "Daily Deals":
+      - /url: https://www.ebay.com/deals
+    - link "Brand Outlet":
+      - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+    - link "Gift Cards":
+      - /url: https://www.ebay.com/giftcards
+    - link "Help & Contact":
+      - /url: https://www.ebay.com/help/home
+    - link "Sell":
+      - /url: https://www.ebay.com/sl/sell
+    - link "Watchlist":
+      - /url: https://www.ebay.com/mye/myebay/watchlist
+    - button "Expand Watch List"
+    - link "My eBay":
+      - /url: https://www.ebay.com/mys/home?source=GBH
+    - button "Expand My eBay"
+    - button "Expand Notifications"
+    - link "Your shopping cart contains 0 items":
+      - /url: https://cart.ebay.com
+    - button "Expand Cart"
+  - link "eBay Home":
+    - /url: https://www.ebay.com
+    - img "eBay Home"
+  - button "Shop by category"
+  - text: Enter your search keyword
+  - combobox "Search for anything": wallet
+  - combobox "Select a category for search":
+    - option "All Categories" [selected]
+    - option "Antiques"
+    - option "Art"
+    - option "Baby"
+    - option "Books & Magazines"
+    - option "Business & Industrial"
+    - option "Cameras & Photo"
+    - option "Cell Phones & Accessories"
+    - option "Clothing, Shoes & Accessories"
+    - option "Coins & Paper Money"
+    - option "Collectibles"
+    - option "Computers/Tablets & Networking"
+    - option "Consumer Electronics"
+    - option "Crafts"
+    - option "Dolls & Bears"
+    - option "Entertainment Memorabilia"
+    - option "Everything Else"
+    - option "Gift Cards & Coupons"
+    - option "Health & Beauty"
+    - option "Home & Garden"
+    - option "Jewelry & Watches"
+    - option "Movies & TV"
+    - option "Music"
+    - option "Musical Instruments & Gear"
+    - option "Pet Supplies"
+    - option "Pottery & Glass"
+    - option "Real Estate"
+    - option "Specialty Services"
+    - option "Sporting Goods"
+    - option "Sports Mem, Cards & Fan Shop"
+    - option "Stamps"
+    - option "Tickets & Experiences"
+    - option "Toys & Hobbies"
+    - option "Travel"
+    - option "Video Games & Consoles"
+  - button "Search"
+  - link "Advanced":
+    - /url: https://www.ebay.com/sch/ebayadvsearch
+```
